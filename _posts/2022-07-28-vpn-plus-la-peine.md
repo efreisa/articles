@@ -2,7 +2,7 @@
 title: VPN, plus la peine
 description: "VPN héritage du passé. Il est temps de s'en passer."
 date: 2022-07-28 10:00:00
-categories: [Opinion]
+categories: [Workplace]
 img_path: /assets/img/
 ---
 

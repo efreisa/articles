@@ -2,7 +2,7 @@
 title: Le workplace n'est plus un lieu
 description: "Le lieu de travail n'a plus de sens aujourd'hui. Ou alors il faut parler des lieux de travail."
 date: 2022-07-19 14:00:00
-categories: [Opinion]
+categories: [Workplace]
 img_path: /assets/img/
 ---
 

@@ -2,7 +2,7 @@
 title: Le cloud ou le retour l’humain
 description: "Le cloud a révolutionné notre usage des services informatiques. Ceci a de facto remis l'accent sur la nécessité de devoir mieux gérer les ressources humaines qui sont devenu critique pour assoir les nouveaux challenges."
 date: 2022-08-16 10:00:00
-categories: [Opinion]
+categories: [Cloud]
 img_path: /assets/img/
 ---
 

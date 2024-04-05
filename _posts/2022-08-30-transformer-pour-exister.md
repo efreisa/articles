@@ -2,7 +2,7 @@
 title: Transformer pour exister
 description: "Tranformer s'est survivre à cette révolution numérique. Pour se faire, le chemin n'est pas simplement technique : il faut d'adapter."
 date: 2022-08-30 10:00:00
-categories: [Opinion]
+categories: [DevOps]
 img_path: /assets/img/
 image:
   path: Transformer-pour-exister.png
