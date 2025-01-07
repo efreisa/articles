@@ -2,6 +2,7 @@
 title: Le challenge imposé par VMware / Broadcom
 date: 2025-01-07 16:33:00
 categories: [Cloud]
+tags: [conviction]
 img_path: /assets/img/
 image:
   path: vmware-alternatives.png
