@@ -1,6 +1,6 @@
 ---
 title: Le challenge imposé par VMware / Broadcom
-date: 2024-03-30 11:19:00
+date: 2025-01-07 16:33:00
 categories: [Cloud]
 img_path: /assets/img/
 image:
