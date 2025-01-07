@@ -1,5 +1,5 @@
 ---
-title: Le challenge imposé par VMware / Broadcom
+title: VMware sous l'Ère Broadcom - La Révolution des Tarifs qui Fait Grincer des Dents
 date: 2025-01-07 16:33:00
 categories: [Cloud]
 tags: [conviction]
