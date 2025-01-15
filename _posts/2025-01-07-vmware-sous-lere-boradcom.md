@@ -81,3 +81,5 @@ La remise en question initié par la nouvelle politique tarifaire de VMware n'a 
 1. Rester avec VMware tout en cherchant de nouveaux axes d'optimisation des coûts dans les contrats, l'organisation ou les choix d'architecture
 2. Rester avec des datacenter en propre mais migrer vers une solution technologique alternative qui nécessitera des travaux d'adaptation
 3. Aller dans le cloud et initier une démarche d'innovation pour en maîtriser les coûts ainsi qu'un nouvel équilibre budgétaire Investissements vs Fonctionnement
+
+Majoritairement, Broadcom impose une transformation plus qu'une adaptation. L'avenir nous révélera ceux et celles qui auront trouver le meilleure chemin.
